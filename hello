@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<head><title>hey</title>
+
+<style>
+
+#section article p{color:red}
+
+</style>
+
+</head>
+<body>
+<section>
+<article> 
+<p>Hey ,guys ! Nice to finally meet you ! </p>
+</article>
+
+</section>
+
+</body>
+</html>
